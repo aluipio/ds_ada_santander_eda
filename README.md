@@ -39,8 +39,6 @@ Bruce, P., & Bruce, A. (2019). Estatística prática para cientistas de dados: 5
 
 Fávero, L. P., Lopes E, B., & Prado, P. (2017). Manual de análise de dados: estatística e modelagem multivariada com Excel, SPSS e Stata. Elsevier.
 
-Kadiwal, A. (2021). Water Quality [Data set]. In Drinking Water Potability. Acesso em 12 Jan 2024 de  https://www.kaggle.com/datasets/adityakadiwal/water-potability/data.
-
 Kaggle: Your machine learning and data science community. (n.d.). Kaggle.com. Acesso em 20 Jan 2024 de https://www.kaggle.com.
 
 
